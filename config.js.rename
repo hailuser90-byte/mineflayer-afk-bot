@@ -2,10 +2,10 @@
 
 
 module.exports = {
-	host: 'play.eternal.gs',
-    port: 25565,
-    username: '',
-    password: '',
+	host: 'Wanasa.aternos.me',
+    port: 64433,
+    username: 'Jwno',
+    password: 'qhsnx73h',
 	// Use mojang for yggdrasil login, microsoft for Microsoft login
 	auth: 'mojang'
 };
